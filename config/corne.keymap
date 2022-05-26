@@ -51,7 +51,7 @@
 // |     |  !  |  @  |  #  |  $  |  %  |   |  ^  |  &  |  *  |  (  |  )  | DEL |
 // |     |     |     |     |     |     |   |  -  |  =  |  {  |  }  |  \  |  `  |
 // |     |     |     |     |     |     |   |  _  |  +  |  [  |  ]  |  |  |  ~  |
-//                   |     | LWR |     |   |     | RSE |     |
+//                   |     | LWR |     |   |     |     |     |
             bindings = <
 &trans &kp EXCL &kp AT &kp HASH &kp DLLR &kp PRCNT      &kp CARET &kp AMPS  &kp KP_MULTIPLY &kp LPAR &kp RPAR &kp DEL
 &trans &trans   &trans &trans   &trans   &trans         &kp MINUS &kp EQUAL &kp LBKT        &kp RBKT &kp BSLH &kp GRAVE
