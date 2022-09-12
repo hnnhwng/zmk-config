@@ -63,7 +63,7 @@
 // -----------------------------------------------------------------------------
 // | F12 |  F1 |  F2 |  F3 |  F4 |  F5 |   |  F6 |  F7 |  F8 |  F9 | F10 | F11 |
 // |     |     |     |     |     |     |   | PRV |  PP | NXT | MUT | VDN | VUP |
-// | BT1 | BT2 | BT3 | BT4 | BT5 | CLR |   |     |     |     |     |     |     |   
+// | CLR | BT1 | BT2 | BT3 | BT4 | BT5 |   |     |     |     |     |     |     |   
 //                   | GUI |     | SPC |   | ENT |     | ALT |
             bindings = <
 &kp F12    &kp F1       &kp F2       &kp F3       &kp F4       &kp F5            &kp F6       &kp F7       &kp F8       &kp F9       &kp F10      &kp F11
